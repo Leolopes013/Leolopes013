@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Leo 👋
 - 🖥️ Cursando analise e desenvolvimentos de sistemas, no momento estudando HTML, CSS, C# e SQL 
 - 😄 Pronouns: ele/dele
+- 🤓 Games/Cultura Geek 
 
 <div align="center">
   <a href="https://github.com/Leolopes013">
