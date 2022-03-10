@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Leo 👋
-- 🖥️ Cursando analise e desenvolvimentos de sistemas, atualmente com ênfase em C# e SQL.
+- 🖥️ Cursando analise e desenvolvimentos de sistemas, no momento estudando HTML, CSS, C# e SQL 
 - 😄 Pronouns: ele/dele
 
 <div align="center">
