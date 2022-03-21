@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Leo 👋
-- 🖥️ Cursando analise e desenvolvimentos de sistemas, no momento estudando HTML, CSS, C# e SQL 
+- 🖥️ Cursando analise e desenvolvimentos de sistemas, no momento estudando HTML5, CSS3, C# e SQL 
 - 😄 Pronouns: ele/dele
 - 🤓 Games/Cultura Geek 
 
@@ -14,6 +14,7 @@
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="gui-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+  <img align="center" alt="gui-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div>
 
   ##
