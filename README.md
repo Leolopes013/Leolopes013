@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Leo 👋
-- 🖥️ Cursando analise e desenvolvimentos de sistemas, no momento estudando HTML5, CSS3,Boostrap, JS, PHP, MySQL.
-- 😄 Pronouns: ele/dele
+- 🖥️ Cursando analise e desenvolvimentos de sistemas.
 - 🤓 Games/Cultura Geek 
 
 <div align="center">
